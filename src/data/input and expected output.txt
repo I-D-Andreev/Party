@@ -1,0 +1,7 @@
+we will invite A1, B1 and C1 to the party
+people who should come: A1, A2, A3, B1, B3, C1, D1, D3
+A1- A2, A3, B1
+B1- B3
+C1- D1, D3
+
+Also, A1 and B1 are friends, but they should come only once.

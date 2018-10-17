@@ -1,0 +1,12 @@
+A1,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;video games;mobile games
+A2,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;computer games
+A3,10,11,1960,Swansea,United Kingdom,Bulgarian,anime
+B2,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;computer games
+B1,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;video games;mobile games
+B3,10,11,1960,Swansea,United Kingdom,Bulgarian,anime
+C1,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;video games;mobile games
+C3,10,11,1960,Swansea,United Kingdom,Bulgarian,anime
+C2,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;computer games
+D1,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;video games;mobile games
+D3,10,11,1960,Swansea,United Kingdom,Bulgarian,anime
+D2,10,11,1960,Swansea,United Kingdom,Bulgarian,anime;computer games
